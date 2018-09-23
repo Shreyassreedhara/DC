@@ -727,7 +727,7 @@ int main()
 
         }
 
-        }
+    }
 
 
 
@@ -740,15 +740,10 @@ int main()
 
 vector <int> initialization(int j)
 {
-    int f;
+    int f, x, n, z, d, a = 0;
     vector <int> g;
     vector <int> receiver;
-    int x;
-    int n;
-    int z;
     int rand_array[N][N-1];
-    int d;
-    int a = 0;
     for(z=1;z<=N;z++)
     {
          if(j != z)
@@ -772,8 +767,7 @@ vector <int> initialization(int j)
 
 vector<int> random_numbers(vector <int> &r)
 {
-int h;
-int f;
+int h, f;
 vector <int> sender;
 random_shuffle(r.begin(),r.end());
 for(h=1;h<=k;h++)
