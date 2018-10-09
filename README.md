@@ -1,10 +1,10 @@
 # Distributed Computing
 
-Course description
+## Course description
 
 This is a field of Computer Science that studies distributed systems. A distributed system is a system whose components are located on different networked computers, which then communicate and coordinate their actions by passing messages to one other
 
-Course outline
+## Course outline
 
 1. Introduction to distributed systems
 2. Architectures
@@ -19,6 +19,10 @@ Course outline
 11. Distributed file systems
 12. Distributed web based systems
 13. Distributed coordination based systems
+
+## Author information
+
+Shreyas Gaadikere Sreedhara, Email: shreyasgaadikere@ufl.edu
 
 ## License
 
