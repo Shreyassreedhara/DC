@@ -20,3 +20,7 @@ Course outline
 12. Distributed web based systems
 13. Distributed coordination based systems
 
+## License
+
+Licensed under the [MIT License](LICENSE)
+
